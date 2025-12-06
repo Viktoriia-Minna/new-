@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul, ol {
+    list-style: none;
+
+}
+.hero { 
+    background-image: url(./section1.jpg);
+    background-repeat: no-repeat;
+    padding-top: 319px;
+    padding-bottom:335px ;
+
+}
+
+.header {
+    position: absolute;
+    top: 0px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    border-bottom: #a1a1a1 1px solid;
+    width: 100%;
+
+
+}
+.hero-p {
+    /* Передова IT студія */
+
+/* p */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+margin-bottom: 20px;
+
+
+}
+
+.hero-h1 {
+    /* Ми створюємо легкі рішення важких задач і проблем */
+
+width: 829px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 48px;
+line-height: 64px;
+text-align: center;
+
+color: #FFFFFF;
+margin: 0 auto;
+margin-bottom: 50px;
+
+
+}
+.hero-button {
+    /* first-screen__button */
+
+
+width: 200px;
+height: 45px;
+display: block;
+margin: 0 auto;
+border-radius: 30px;
+background-color: #4985FF;
+/* Наші проекти */
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.nav-header-list {
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    /* Головна */
+
+
+}
+.nav-header-list-li-p {
+/* p */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
