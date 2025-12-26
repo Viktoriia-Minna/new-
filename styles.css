@@ -232,3 +232,98 @@ height: 45px;
 margin-top: 55px;
 }
 
+.hs-h2 {
+    /* Високі стандарти розробки */
+
+
+/* h2 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 53px;
+
+/* dark */
+color: #323232;
+
+
+}
+.hs-p {
+    /* Lorem Ipsum - це текст-"риба", що часто використовується в пресі та веб-дизайні. Lorem Ipsum є стандартною "рибою" для текстів на латиниці з початку XVI ст. */
+
+
+/* p>h2 */
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+/* grey */
+color: #999999;
+
+
+}
+.details-link {
+    /* Детальніше про компанію */
+
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-decoration-line: underline;
+
+/* Accent */
+color: #4985FF;
+
+
+}
+.hs-image {
+    width: 500px;
+    height: 400px;
+    margin-right: 405px;
+    margin-left: 121px;
+    margin-top: 105px;
+    margin-bottom: 90px;
+}
+.high-standards {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F9F9F9;
+}
+.hs-h2 {
+    margin-top: 152px;
+    /* margin-left: px; */
+    margin-bottom: 60px;
+    margin-right: 186px;
+    width: 424px;
+
+}
+.hs-p {
+    margin-bottom: 42px;
+    width: 489px;
+}
+.hs {
+    display: flex;
+}
+.hs-list-li {
+    display: flex;
+}
+.hs-list-li-svg {
+    width: 30px;
+    height: 30px;
+    fill: #4985FF;
+    
+}
+
+.hs-list {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+}
+
